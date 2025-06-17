@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "test1_HDL"      # Project title
+  title:        "2input_8bit-ANDgate"      # Project title
   author:       "HPD"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "simple 8 bit 2 input AND logic"      # One line description of what your project does
